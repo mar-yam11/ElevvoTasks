@@ -1,5 +1,4 @@
-# ElevvoTasks
-# Data Analysis Tasks
+# Elevvo Internship - Data Analytics Tasks
 
 This repository contains my completed tasks for the Elevvo Internship Program.  
 The tasks are designed to simulate real-world data analysis projects.
@@ -7,7 +6,6 @@ The tasks are designed to simulate real-world data analysis projects.
 - **Task 1**: Sales data analysis using Excel (`data/Task1.xlsx`).
 - **Task 2**: Titanic dataset EDA with Python (`scripts/Task2.py`).
 - **Task 3**: RFM customer segmentation with Python (`scripts/Task3.py`).
-- # Elevvo Internship - Data Analytics Tasks
 
 ## **Tasks Overview**
 1. **Sales Performance Dashboard (Excel)**  
